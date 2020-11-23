@@ -5,5 +5,6 @@
 <p>Adding new data, required by business!</p>
 <p>Teting SCM pull to make sure auto trigger my build</p>
 <p>adding new line today to test-by kamal</p>
+<p>Today is Nov 23,2020, updated by kamal akhtar<p>  
 </body>
 </html>
