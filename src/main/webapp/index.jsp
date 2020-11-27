@@ -7,5 +7,6 @@
 <p>adding new line today to test-by kamal</p>
 <p>Today is Nov 23,2020, updated by kamal akhtar<p> 
 <p>adding new text to confirm automatic deployment<p>  
-</body>
+<p>this is tonight deplyment Friday 27<p>
+  </body>
 </html>
