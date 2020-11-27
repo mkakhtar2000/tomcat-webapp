@@ -8,6 +8,6 @@
 <p>Today is Nov 23,2020, updated by kamal akhtar<p> 
 <p>adding new text to confirm automatic deployment<p>  
 <p>this is tonight deplyment Friday 27<p>
-<p>updating file with new product Chrome-book on Friday night before black night sale<p>
+<p>updating file with new product Chrome-book on Friday night before black night sale , Happy new gift people<p>
 </body>
 </html>
